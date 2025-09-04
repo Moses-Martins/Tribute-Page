@@ -1,0 +1,43 @@
+body {
+  background-color: #E9FFE5;
+  margin: 0;
+}
+
+header {
+  padding: 2px;
+  text-align: center;
+  background-color: #FBE5FF
+}
+
+figure {
+  justify-content: center;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  max-height: auto;
+}
+
+figcaption {
+  text-align: right
+}
+
+#tribute-info {
+  width: 60%;
+  margin: 20px auto
+}
+
+.italics {
+  margin-top: 30px;
+  font-style: italic;
+}
+
+footer {
+  background-color: #FBE5FF;
+  padding: 20px;
+  text-align: center;
+}
+
+
+
